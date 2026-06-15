@@ -1,122 +1,35 @@
-# 🤖 APP AI - منصة ذكاء اصطناعي متعددة النماذج
+# App-ai-beta 🤖
 
-تطبيق ويب متكامل يوفر واجهة موحدة للوصول إلى أقوى نماذج الذكاء الاصطناعي من جميع مزودي الخدمات.
-
-🌐 **الموقع:** [https://ai-agentiq.edgeone.app/](https://ai-agentiq.edgeone.app/)
-
-🌍 **زورو تطبيقنا ونرحب بكل العالم!**
-
-## ✨ الميزات الرئيسية
-
-### 🔑 إدارة مفاتيح API
-- أضف مفاتيح API من أي نموذج ذكاء اصطناعي مباشرة
-- أدخل Endpoint مخصص لأي نموذج
-- ادفع اسم النموذج وحفظه محلياً بأمان
-
-### 🎨 إنشاء وتعديل الصور
-- إنشاء صور من وصف نصي
-- تحرير وتعديل الصور الموجودة
-- دعم نماذج متعددة
-
-### 🎵 إنشاء الأصوات والأغاني والصوت
-- توليد موسيقى وأغاني
-- **تحويل النصوص إلى صوت (TTS)**
-- دعم لغات متعددة
-
-### 🎬 إنشاء الفيديوهات
-- توليد فيديوهات من وصف نصي
-- تحرير وتحسين الفيديوهات
-
-### 📁 إنشاء الملفات
-- توليد ملفات نصية
-- إنشاء جداول بيانات
-- تحويل الصيغ المختلفة
-
-### 🔄 نقل البيانات من التطبيقات الأخرى
-- **استيراد البيانات من ChatGPT و Google Gemini**
-- نظام Prompt متقدم للنقل الآمن
-- حفظ البيانات محلياً
-
-### 🤖 دعم نماذج Gemini
-- **دعم شبه كل نماذج Google Gemini**
-- تكامل كامل مع خدمات Google
-
-### 📱 تكامل Telegram
-- **دعم اتصال مباشر عبر Telegram Bot Token**
-- تحكم كامل من Telegram
+A lightweight, high-performance, single-file responsive AI Chat Interface built from scratch using clean vanilla web technologies. This project focuses on high speed, custom user experiences, and seamless integration with AI models, designed to work perfectly across all devices including mobile platforms.
 
 ---
 
-## 🚀 البدء السريع
+## 🌟 Features
 
-### الخطوات:
-1. 🌐 افتح [الموقع](https://ai-agentiq.edgeone.app/)
-2. 🔑 ادخل **API Key** من الخدمة
-3. 🔗 ادخل **Endpoint** (URL النموذج)
-4. 📛 ادخل **اسم النموذج**
-5. 💾 اضغط "حفظ" وابدأ الاستخدام!
+*   **Pure & Vanilla:** Built using 100% pure HTML5, CSS3, and Vanilla JavaScript. No bulky frameworks, no external heavy libraries—maximizing loading speeds and efficiency.
+*   **Fully Responsive UI:** Optimized layout that fluidly scales from low-end mobile devices to large desktop monitors.
+*   **Gothic / Dark Aesthetics:** Immersive and sleek dark mode design that reduces eye strain and provides a high-end visual experience.
+*   **Real-time AI Chat Simulation:** Clean message streaming interface with modular code structured for easy API integrations (e.g., local LLMs or cloud endpoints).
 
 ---
 
-## 🎯 الحالات الاستخدام
+## 🛠️ Tech Stack
 
-✅ الكتاب والمدونون - إنشاء محتوى نصي وصور  
-✅ المصممون - تحرير الصور والفيديوهات  
-✅ منتجو الموسيقى - إنشاء أغاني وأصوات  
-✅ صناع المحتوى - إنشاء فيديوهات احترافية  
-✅ المطورون - استخدام نماذج Gemini المتقدمة  
+*   **Frontend:** HTML5, CSS3 (Custom Variables, Flexbox, Grid)
+*   **Logic & Behavior:** Vanilla JavaScript (ES6+, Async/Await)
+*   **Environment:** Designed and developed entirely on a mobile environment using **Termux**, proving that powerful software doesn't require a high-end PC setup.
 
 ---
 
-## 🔐 الأمان
+## 🚀 Getting Started
 
-- تشفير مفاتيح API
-- الحفظ محلي بدون إرسال البيانات لسيرفر
-- التوافق مع معايير الخصوصية
+Since this is a lightweight frontend application, running it is incredibly simple.
 
----
+### Prerequisites
+You only need a modern web browser.
 
-## 🐛 الإبلاغ عن المشاكل
+### Installation & Run
 
-وجدت مشكلة؟ [افتح Issue](https://github.com/gamemosa89-spec/App-ai-beta-/issues)
-
-اطلع على [دليل الإبلاغ](BUG_REPORT.md) للمزيد من التفاصيل.
-
----
-
-## 🤝 المساهمة
-
-نرحب بمساهماتك! اطلع على [دليل المساهمة](CONTRIBUTING.md)
-
-### 💰 دعم المشروع
-
-إذا أعجبك المشروع، يمكنك المساهمة عبر:
-
-**Trust Wallet:**
-```
-TSdSsyqcqW4nmVAdqgbsy3tUdsAVgNtYc3
-```
-
----
-
-## 📞 خدمة العملاء
-
-للتواصل والدعم:
-- 📧 **البريد الإلكتروني:** mwsy18093@gmail.com
-- 💬 **Telegram:** @m_t_2k
-
----
-
-## 📄 الترخيص
-
-هذا المشروع مرخص تحت [MIT License](LICENSE)
-
----
-
-## 📝 آخر التحديثات
-
-اطلع على [سجل التحديثات](CHANGELOG.md) لمزيد من المعلومات عن آخر الإضافات والإصلاحات.
-
----
-
-**صنع بـ ❤️ من قبل فريق App AI**
+1. Clone the repository:
+```bash
+   git clone [https://github.com/gamemosa89-spec/App-ai-beta-.git](https://github.com/gamemosa89-spec/App-ai-beta-.git)
